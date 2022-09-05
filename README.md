@@ -1,7 +1,7 @@
 ### Who am I
 
  - 🎓 MSc in Computer Science
- - 👨‍💻 Frontend Developer
+ - 👨‍💻 Senior Frontend Engineer
 
 ### What are my interests?
 
